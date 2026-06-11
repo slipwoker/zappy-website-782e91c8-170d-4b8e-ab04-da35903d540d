@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://stillwater-782e91c8.zappy5.app
+https://example.com
 Discover serenity at Stillwater, your local yoga studio inspired by the stillness of an evolutions fitness &amp; wellness center. Explore airy spaces and mindful practice. Begin your journey to balance today.
 
 ### Classes & Pricing
-https://stillwater-782e91c8.zappy5.app/classes-pricing
+https://example.com/classes-pricing
 Browse our structured yoga classes with clear, upfront pricing at Stillwater. From gentle flow to deep restoration, find a session that fits your path at this middle branch fitness and wellness center. Book your mat now.
 
 ### Instructors
-https://stillwater-782e91c8.zappy5.app/instructors
+https://example.com/instructors
 Connect with the caring instructors who make Stillwater a true march wellness and fitness center. Each profile reflects a personal commitment to guiding your stillness. Find your teacher and deepen your practice.
 
 ### Contact & Booking
-https://stillwater-782e91c8.zappy5.app/contact-booking
+https://example.com/contact-booking
 Ready to embrace tranquility? Contact Stillwater or book online instantly, bringing the ease of a uhealth fitness &amp; wellness center to your fingertips. Secure your spot in our serene studio today.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://stillwater-782e91c8.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://stillwater-782e91c8.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://stillwater-782e91c8.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://stillwater-782e91c8.zappy5.app/contact-booking
-- Endpoint: https://stillwater-782e91c8.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact-booking
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ Fitness & Wellness
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://stillwater-782e91c8.zappy5.app/sitemap.xml
-- Robots: https://stillwater-782e91c8.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://stillwater-782e91c8.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
